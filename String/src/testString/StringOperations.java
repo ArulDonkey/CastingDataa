@@ -10,9 +10,9 @@ package testString;
 	public class StringOperations {
 		public static void main(String[] args) {
 			String str1 = "Hello";
-			String str2 = "Azhar";
+			String str2 = "Arul";
 			String str3 = "";
-			str3 = str1.concat(" " + str2 + ", ").concat("howare you?");
+			str3 = str1.concat(" " + str2 + ", ").concat("how are you?");
 			
 			System.out.println("String 3 : " + str3);
 			System.out.println("Length : " + str1.length());
